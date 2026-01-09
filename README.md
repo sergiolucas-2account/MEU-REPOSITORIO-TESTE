@@ -8,8 +8,11 @@
 
 3. Fazer Alterações >> Adicionar | Commitar | Enviar arquivos; [ X ]
 
-4. Criar uma nova Branch; [ ]
+4. Criar uma nova Branch; [ X ]
 
-5. Realizar um Pull Request e Merge; [ ]
+5. Realizar um Pull Request e Merge; [ X ]
 
-7. Criar nosso primeiro Fork; [ ]
+7. Criar nosso primeiro Fork; [ X ]
+
+## OBSERVAÇÕES GERAIS:
+Este repositório foi criado como forma de aprendizagem do uso do git e git hub.
