@@ -12,7 +12,9 @@
 
 5. Realizar um Pull Request e Merge; [ X ]
 
-7. Criar nosso primeiro Fork; [ X ]
+6. Criar nosso primeiro Fork; [ X ]
+
+7. Usar o Git Codespaces; [ X ]
 
 ## OBSERVAÇÕES GERAIS:
 Este repositório foi criado como forma de aprendizagem do uso do git e git hub.
